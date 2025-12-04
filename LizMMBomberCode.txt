@@ -32,23 +32,23 @@ Scarecrow Song Great Bay        | X | *
 Feeding the Fish                | X | *
 Waterfall                       | X | *
 Beaver Brothers                 | X | *
-Skultula House                  |   | *
+Skultula House                  | X | *
 Jammin with Zora                | X | *
 Fisherman's Jumping Minigame    |   | *
 Frog Choir                      |   | *
-Zora Snowhead Spring            |   | *
-Poe Sisters                     |   | *
+Zora Snowhead Spring            | X | *
+Poe Sisters                     | X | *
 Southern Swamp Deed             | X | *
 Northern Mountain Deed          | X | *
 Eastern Ocean Deed              | X | *
 Ikana Scrub (No Deed)           | X | *
 Termina Field Business Scrub    | X | *
-Anju's Grandmother #1           |   | *
+Anju's Grandmother #1           | X | *
 Anju's Grandmother #2           |   | *
-Castle Ikana                    |   | *
+Castle Ikana                    | X | *
 Keaton                          | X | *
 Postbox                         |   | *
-Mayor                           |   | *
+Mayor                           | X | *
 Bank                            | X | *
 Secret Shrine                   |   | *
 Odolwa                          |   | *
@@ -77,10 +77,10 @@ Romani's Mask                   | X | *
 Garo's Mask                     | X | *
 Captain's Hat                   | X | *
 Stone Mask                      | X | *
-Circus/Troupe Leader's Mask     |   | *
-All-Night Mask                  |   | *
+Circus/Troupe Leader's Mask     | X | *
+All-Night Mask                  | X | *
 Gibdo Mask                      | X | *
-Couple's Mask                   |   | *
+Couple's Mask                   | X | *
 Giant's Mask                    |   | *
 ***************************************
 *               Bottles               *
@@ -90,12 +90,12 @@ Goron Race                      | X | *
 Romani Ranch                    | X | *
 Beneath the Gravestone          | X | *
 Beaver Race                     | X | *
-Madame Aroma                    |   | *
+Madame Aroma                    | X | *
 ***************************************
 *              Upgrades               *
 ***************************************
 Adult Wallet                    | X | *
-Giant's Wallet                  |   | *
+Giant's Wallet                  | X | *
 Big Bomb Bag                    | X | *
 Bigger Bomb Bag                 | X | *
 Big Quiver                      |   | *
