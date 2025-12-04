@@ -1,6 +1,5 @@
 Bomber Code: 21435
 
-Heart Pieces:
 ***************************************
 *             Heart Pieces            *
 ***************************************
@@ -48,9 +47,9 @@ Anju's Grandmother #1           |   | *
 Anju's Grandmother #2           |   | *
 Castle Ikana                    |   | *
 Keaton                          | X | *
-PostboX                         |   | *
+Postbox                         |   | *
 Mayor                           |   | *
-Bank                            |   | *
+Bank                            | X | *
 Secret Shrine                   |   | *
 Odolwa                          |   | *
 Goht                            |   | *
