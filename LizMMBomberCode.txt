@@ -4,51 +4,51 @@ Heart Pieces:
 ***************************************
 *             Heart Pieces            *
 ***************************************
-Clocktown Deed                  | X | *
-Clocktown Tree                  | X | *
-Mysterious Hand                 | X | *
-Dancing Mask                    | X | *
-Swordsman school                | X | *
-Dodongo Hole                    | X | *
-Peahat Hole                     | X | *
-Top of Tree Southern Swamp      | X | *
-Deku Palace                     | X | *
-Woodfall                        | X | *
+Clocktown Deed                  |   | *
+Clocktown Tree                  |   | *
+Mysterious Hand                 |   | *
+Dancing Mask                    |   | *
+Swordsman school                |   | *
+Dodongo Hole                    |   | *
+Peahat Hole                     |   | *
+Top of Tree Southern Swamp      |   | *
+Deku Palace                     |   | *
+Woodfall                        |   | *
 Koume's Target Game             |   | *
-Photo Contest                   | X | *
-Postman Game                    | X | *
-Shade of Stone                  | X | *
-Dog Racing                      | X | *
+Photo Contest                   |   | *
+Postman Game                    |   | *
+Shade of Stone                  |   | *
+Dog Racing                      |   | *
 Clocktown Shooting Gallery      |   | *
 Southern Swamp Shooting Gallery |   | *
 Deku Playground 3-day           |   | *
 Honey & Darling 3-day           |   | *
 Goron Chest Minigame            |   | *
-Ikana Night 2                   | X | *
-Pirate's Fortress               | X | *
-Pinnacle Rock Seahorse          | X | *
-Zora Hole Termina               | X | *
-Scarecrow Song Snowhead         | X | *
-Scarecrow Song Great Bay        | X | *
-Feeding the Fish                | X | *
-Waterfall                       | X | *
-Beaver Brothers                 | X | *
+Ikana Night 2                   |   | *
+Pirate's Fortress               |   | *
+Pinnacle Rock Seahorse          |   | *
+Zora Hole Termina               |   | *
+Scarecrow Song Snowhead         |   | *
+Scarecrow Song Great Bay        |   | *
+Feeding the Fish                |   | *
+Waterfall                       |   | *
+Beaver Brothers                 |   | *
 Skultula House                  |   | *
-Jammin with Zora                | X | *
+Jammin with Zora                |   | *
 Fisherman's Jumping Minigame    |   | *
 Frog Choir                      |   | *
 Zora Snowhead Spring            |   | *
 Poe Sisters                     |   | *
-Southern Swamp Deed             | X | *
-Northern Mountain Deed          | X | *
-Eastern Ocean Deed              | X | *
-Ikana Scrub (No Deed)           | X | *
-Termina Field Business Scrub    | X | *
+Southern Swamp Deed             |   | *
+Northern Mountain Deed          |   | *
+Eastern Ocean Deed              |   | *
+Ikana Scrub (No Deed)           |   | *
+Termina Field Business Scrub    |   | *
 Anju's Grandmother #1           |   | *
 Anju's Grandmother #2           |   | *
 Castle Ikana                    |   | *
-Keaton                          | X | *
-PostboX                         |   | *
+Keaton                          |   | *
+Postbox                         |   | *
 Mayor                           |   | *
 Bank                            |   | *
 Secret Shrine                   |   | *
@@ -59,54 +59,54 @@ Twinmold                        |   | *
 ***************************************
 *                 Masks               *
 ***************************************
-Deku Mask                       | X | *
-Goron Mask                      | X | *
-Zora Mask                       | X | *
+Deku Mask                       |   | *
+Goron Mask                      |   | *
+Zora Mask                       |   | *
 Fierce Deity's Mask             |   | *
-Great Fairy's Mask              | X | *
-Kafei's Mask                    | X | *
-Bremen Mask                     | X | *
-Kamaro's Mask                   | X | *
-Blast Mask                      | X | *
-Bunny Hood                      | X | *
-Keaton Mask                     | X | *
+Great Fairy's Mask              |   | *
+Kafei's Mask                    |   | *
+Bremen Mask                     |   | *
+Kamaro's Mask                   |   | *
+Blast Mask                      |   | *
+Bunny Hood                      |   | *
+Keaton Mask                     |   | *
 Postman's Hat                   |   | *
-Mask of Truth                   | X | *
-Mask of Scents                  | X | *
-Don Gero's Mask                 | X | *
-Romani's Mask                   | X | *
-Garo's Mask                     | X | *
-Captain's Hat                   | X | *
-Stone Mask                      | X | *
+Mask of Truth                   |   | *
+Mask of Scents                  |   | *
+Don Gero's Mask                 |   | *
+Romani's Mask                   |   | *
+Garo's Mask                     |   | *
+Captain's Hat                   |   | *
+Stone Mask                      |   | *
 Circus/Troupe Leader's Mask     |   | *
 All-Night Mask                  |   | *
-Gibdo Mask                      | X | *
+Gibdo Mask                      |   | *
 Couple's Mask                   |   | *
 Giant's Mask                    |   | *
 ***************************************
 *               Bottles               *
 ***************************************
-Koume and Kotake                | X | *
-Goron Race                      | X | *
-Romani Ranch                    | X | *
-Beneath the Gravestone          | X | *
-Beaver Race                     | X | *
+Koume and Kotake                |   | *
+Goron Race                      |   | *
+Romani Ranch                    |   | *
+Beneath the Gravestone          |   | *
+Beaver Race                     |   | *
 Madame Aroma                    |   | *
 ***************************************
 *              Upgrades               *
 ***************************************
-Adult Wallet                    | X | *
+Adult Wallet                    |   | *
 Giant's Wallet                  |   | *
-Big Bomb Bag                    | X | *
-Bigger Bomb Bag                 | X | *
+Big Bomb Bag                    |   | *
+Bigger Bomb Bag                 |   | *
 Big Quiver                      |   | *
 Bigger Quiver                   |   | *
 Great Fairy's Sword             |   | *
 ***************************************
 *            Great Fairies            *
 ***************************************
-Woodfall                        | X | *
-Snowhead                        | X | *
-Great Bay                       | X | *
+Woodfall                        |   | *
+Snowhead                        |   | *
+Great Bay                       |   | *
 Ikana                           |   | *
 ***************************************
