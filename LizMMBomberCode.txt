@@ -1,112 +1,112 @@
 Bomber Code: 21435
 
 Heart Pieces:
-*******************************************
-*             Heart Pieces                *
-*******************************************
-Clocktown Deed                    | X |   *
-Clocktown Tree                    | X |   *
-Mysterious Hand                   | X |   *
-Dancing Mask                      | X |   *
-Swordsman school                  | X |   *
-Dodongo Hole                      | X |   *
-Peahat Hole                       | X |   *
-Top of Tree Southern Swamp        | X |   *
-Deku Palace                       | X |   *
-Woodfall                          | X |   *
-Koume's Target Game               |   |   *
-Photo Contest                     | X |   *
-Postman Game                      | X |   *
-Shade of Stone                    | X |   *
-Dog Racing                        | X |   *
-Clocktown Shooting Gallery        |   |   *
-Southern Swamp Shooting Gallery   |   |   *
-Deku Playground 3-day             |   |   *
-Honey & Darling 3-day             |   |   *
-Goron Chest Minigame              |   |   *
-Ikana Night 2                     | X |   *
-Pirate's Fortress                 | X |   *
-Pinnacle Rock Seahorse            | X |   *
-Zora Hole Termina                 | X |   *
-Scarecrow Song Snowhead           | X |   *
-Scarecrow Song Great Bay          | X |   *
-Feeding the Fish                  | X |   *
-Waterfall                         | X |   *
-Beaver Brothers                   | X |   *
-Skultula House                    |   |   *
-Jammin with Zora                  | X |   *
-Fisherman's Jumping Minigame      |   |   *
-Frog Choir                        |   |   *
-Zora Snowhead Spring              |   |   *
-Poe Sisters                       |   |   *
-Southern Swamp Deed               | X |   *
-Northern Mountain Deed            | X |   *
-Eastern Ocean Deed                |   |   *
-Ikana Scrub (No Deed)             |   |   *
-Termina Field Business Scrub      | X |   *
-Anju's Grandmother #1             |   |   *
-Anju's Grandmother #2             |   |   *
-Castle Ikana                      |   |   *
-Keaton                            | X |   *
-PostboX                           |   |   *
-Mayor                             |   |   *
-Bank                              |   |   *
-Secret Shrine                     |   |   *
-Odolwa                            |   |   *
-Goht                              |   |   *
-Gyorg                             |   |   *
-Twinmold                          |   |   *
-*******************************************
-*                 Masks                   *
-*******************************************
-Deku Mask                         | X |   *
-Goron Mask                        | X |   *
-Zora Mask                         | X |   *
-Fierce Deity's Mask               |   |   *
-Great Fairy's Mask                | X |   *
-Kafei's Mask                      | X |   *
-Bremen Mask                       | X |   *
-Kamaro's Mask                     | X |   *
-Blast Mask                        | X |   *
-Bunny Hood                        | X |   *
-Keaton Mask                       | X |   *
-Postman's Hat                     |   |   *
-Mask of Truth                     | X |   *
-Mask of Scents                    | X |   *
-Don Gero's Mask                   | X |   *
-Romani's Mask                     | X |   *
-Garo's Mask                       |   |   *
-Captain's Hat                     | X |   *
-Stone Mask                        | X |   *
-Circus/Troupe Leader's Mask       |   |   *
-All-Night Mask                    |   |   *
-Gibdo Mask                        |   |   *
-Couple's Mask                     |   |   *
-Giant's Mask                      |   |   *
-*******************************************
-*               Bottles                   *
-*******************************************
-Koume and Kotake                  | X |   *
-Goron Race                        | X |   *
-Romani Ranch                      | X |   *
-Beneath the Gravestone            | X |   *
-Beaver Race                       | X |   *
-Madame Aroma                      |   |   *
-*******************************************
-*              Upgrades                   *
-*******************************************
-Adult Wallet                      | X |   *
-Giant's Wallet                    |   |   *
-Big Bomb Bag                      | X |   *
-Bigger Bomb Bag                   | X |   *
-Big Quiver                        |   |   *
-Bigger Quiver                     |   |   *
-Great Fairy's Sword               |   |   *
-*******************************************
-*            Great Fairies                *
-*******************************************
-Woodfall                          | X |   *
-Snowhead                          | X |   *
-Great Bay                         | X |   *
-Ikana                             |   |   *
-*******************************************
+***************************************
+*             Heart Pieces            *
+***************************************
+Clocktown Deed                  | X | *
+Clocktown Tree                  | X | *
+Mysterious Hand                 | X | *
+Dancing Mask                    | X | *
+Swordsman school                | X | *
+Dodongo Hole                    | X | *
+Peahat Hole                     | X | *
+Top of Tree Southern Swamp      | X | *
+Deku Palace                     | X | *
+Woodfall                        | X | *
+Koume's Target Game             |   | *
+Photo Contest                   | X | *
+Postman Game                    | X | *
+Shade of Stone                  | X | *
+Dog Racing                      | X | *
+Clocktown Shooting Gallery      |   | *
+Southern Swamp Shooting Gallery |   | *
+Deku Playground 3-day           |   | *
+Honey & Darling 3-day           |   | *
+Goron Chest Minigame            |   | *
+Ikana Night 2                   | X | *
+Pirate's Fortress               | X | *
+Pinnacle Rock Seahorse          | X | *
+Zora Hole Termina               | X | *
+Scarecrow Song Snowhead         | X | *
+Scarecrow Song Great Bay        | X | *
+Feeding the Fish                | X | *
+Waterfall                       | X | *
+Beaver Brothers                 | X | *
+Skultula House                  |   | *
+Jammin with Zora                | X | *
+Fisherman's Jumping Minigame    |   | *
+Frog Choir                      |   | *
+Zora Snowhead Spring            |   | *
+Poe Sisters                     |   | *
+Southern Swamp Deed             | X | *
+Northern Mountain Deed          | X | *
+Eastern Ocean Deed              | X | *
+Ikana Scrub (No Deed)           | X | *
+Termina Field Business Scrub    | X | *
+Anju's Grandmother #1           |   | *
+Anju's Grandmother #2           |   | *
+Castle Ikana                    |   | *
+Keaton                          | X | *
+PostboX                         |   | *
+Mayor                           |   | *
+Bank                            |   | *
+Secret Shrine                   |   | *
+Odolwa                          |   | *
+Goht                            |   | *
+Gyorg                           |   | *
+Twinmold                        |   | *
+***************************************
+*                 Masks               *
+***************************************
+Deku Mask                       | X | *
+Goron Mask                      | X | *
+Zora Mask                       | X | *
+Fierce Deity's Mask             |   | *
+Great Fairy's Mask              | X | *
+Kafei's Mask                    | X | *
+Bremen Mask                     | X | *
+Kamaro's Mask                   | X | *
+Blast Mask                      | X | *
+Bunny Hood                      | X | *
+Keaton Mask                     | X | *
+Postman's Hat                   |   | *
+Mask of Truth                   | X | *
+Mask of Scents                  | X | *
+Don Gero's Mask                 | X | *
+Romani's Mask                   | X | *
+Garo's Mask                     | X | *
+Captain's Hat                   | X | *
+Stone Mask                      | X | *
+Circus/Troupe Leader's Mask     |   | *
+All-Night Mask                  |   | *
+Gibdo Mask                      | X | *
+Couple's Mask                   |   | *
+Giant's Mask                    |   | *
+***************************************
+*               Bottles               *
+***************************************
+Koume and Kotake                | X | *
+Goron Race                      | X | *
+Romani Ranch                    | X | *
+Beneath the Gravestone          | X | *
+Beaver Race                     | X | *
+Madame Aroma                    |   | *
+***************************************
+*              Upgrades               *
+***************************************
+Adult Wallet                    | X | *
+Giant's Wallet                  |   | *
+Big Bomb Bag                    | X | *
+Bigger Bomb Bag                 | X | *
+Big Quiver                      |   | *
+Bigger Quiver                   |   | *
+Great Fairy's Sword             |   | *
+***************************************
+*            Great Fairies            *
+***************************************
+Woodfall                        | X | *
+Snowhead                        | X | *
+Great Bay                       | X | *
+Ikana                           |   | *
+***************************************
