@@ -20,7 +20,7 @@ Shade of Stone                  | X | *
 Dog Racing                      | X | *
 Clocktown Shooting Gallery      |   | *
 Southern Swamp Shooting Gallery |   | *
-Deku Playground 3-day           |   | *
+Deku Playground 3-day           | X | *
 Honey & Darling 3-day           |   | *
 Goron Chest Minigame            |   | *
 Ikana Night 2                   | X | *
@@ -44,10 +44,10 @@ Eastern Ocean Deed              | X | *
 Ikana Scrub (No Deed)           | X | *
 Termina Field Business Scrub    | X | *
 Anju's Grandmother #1           | X | *
-Anju's Grandmother #2           |   | *
+Anju's Grandmother #2           | X | *
 Castle Ikana                    | X | *
 Keaton                          | X | *
-Postbox                         |   | *
+Postbox                         | X | *
 Mayor                           | X | *
 Bank                            | X | *
 Secret Shrine                   |   | *
@@ -69,7 +69,7 @@ Kamaro's Mask                   | X | *
 Blast Mask                      | X | *
 Bunny Hood                      | X | *
 Keaton Mask                     | X | *
-Postman's Hat                   |   | *
+Postman's Hat                   | X | *
 Mask of Truth                   | X | *
 Mask of Scents                  | X | *
 Don Gero's Mask                 | X | *
